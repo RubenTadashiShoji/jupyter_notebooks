@@ -1,0 +1,5 @@
+Trimmed 41 customer records that were either employees or house accounts
+
+Added 3D visulalization
+
+Repeated full KMeans process on first cluster
